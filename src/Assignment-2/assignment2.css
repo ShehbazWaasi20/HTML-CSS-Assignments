@@ -5,3 +5,103 @@
 width: 100%;
 height: 100%;
 }
+
+#topbar{
+    background-image: linear-gradient(50deg, green, white);
+}
+.logo{
+    width: 100px;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+
+#searchbox{
+    float: right;
+    border: none;
+    height: 25px;
+    position: relative;
+    bottom: 50px;
+    right: 20px;
+    background-color: ghostwhite;
+}
+#glass{
+    float: right;
+    position: relative;
+    bottom: 53px;
+    left: 150px;
+}
+#glass:hover{
+    border: solid;
+}
+
+#links{
+    text-align: center;
+    /* position: relative;
+    top: 20px; */
+}
+
+a{
+    text-decoration: solid;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.bar{
+    background-color: gainsboro;
+    width: 15%;
+    height: 500px;
+}
+
+#main-content-section{
+    border: none;
+    width: 1030px;
+    height: 500px;
+    margin-left: 230px;
+    position: relative;
+    bottom: 500px;
+    background-image: linear-gradient(45deg ,green,white ) ;
+
+}
+
+#right_sidebar_menu{
+    border: none;
+    width: 15%;
+    height: 500px;
+    float: right;
+    position: relative;
+    bottom:1005px;
+    right: 6px;
+    background-color:seagreen;
+}
+
+#box{
+    height: 500px;
+}
+
+.list{
+    position: relative;
+    top: 50px;
+}
+
+#page-footer{
+    border: none;
+    height: 150px;
+    background-color:seagreen;
+}
+
+#p{
+    font-size: 20px;
+    font-style: italic;
+    font-weight: lighter;
+    padding: 10px 40px;
+}
+
+.post-img{
+    padding: 10px 5px 10px 10px;
+}
+
+.post-img, img{
+    margin: 5px 5px;
+
+}
