@@ -30,9 +30,9 @@ Before running the tests:
 
 1. Install [Node.js](http://nodejs.org/download/).
 2. Install Quixote: `npm install quixote`
-3. Install Jake: `npm install -g jake`
-4. Install all required packages: `npm i`
-5. Fixing audit issues: `npm audit fix`
+3. Install Jake: `npm inpackages: `npm i`
+5. Fixing audit issustall -g jake`
+4. Install all required es: `npm audit fix`
 
 To run the tests:
 
