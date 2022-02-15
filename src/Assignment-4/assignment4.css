@@ -237,3 +237,9 @@ section{
     border: none;
     height: 500px;
 }
+
+.btn1:hover{
+    color: brown;
+    border: solid;
+    border-radius: 20px;
+}
