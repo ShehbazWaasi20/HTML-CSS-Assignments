@@ -44,10 +44,7 @@ body{
     right: 1cm;
     bottom: 1.5cm;
     width: 350px;
-    box-shadow: 0px 10px 5px 0px rgba(0,0,0,0.75);
--webkit-box-shadow: 0px 10px 5px 0px rgba(0,0,0,0.75);
--moz-box-shadow: 0px 10px 5px 0px rgba(0,0,0,0.75);
-
+    
 }
 
 .card-content{
